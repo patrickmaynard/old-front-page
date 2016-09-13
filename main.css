@@ -1,0 +1,12 @@
+html {
+  background-color: #cccccc;
+  padding: 0px; }
+
+body {
+  background-color: #ffffff;
+  width: 40%;
+  min-width: 350px;
+  height: 100%;
+  margin: 0px;
+  padding: 10px;
+  border-radius: 0px 0px 10px 0px; }
